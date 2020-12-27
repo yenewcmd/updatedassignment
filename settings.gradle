@@ -1,0 +1,2 @@
+rootProject.name='Assmt2'
+include ':app'
